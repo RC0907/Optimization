@@ -1,0 +1,11 @@
+Value of voilation : nan
+funcValue : nan
+final value of x after ittration come : nan
+final value of x after ittration come : nan
+the valu eof the ans5 : 100.00000000000000000000Value of r : 0.00010000000000000000Value of voilation : nan
+funcValue : nan
+final value of x after ittration come : nan
+final value of x after ittration come : nan
+the valu eof sum7 nan
+the valu eof sum8 nan
+the valu eof the ans5 : nanValue of r : 0.00000010000000000000
